@@ -1,4 +1,4 @@
-#threatLENS: Advanced Malware Detection Using Machine Learning
+**threatLENS: Advanced Malware Detection Using Machine Learning**
 
 Welcome to the threatLENS project repository! This project is part of our final year initiative to develop a cutting-edge malware detection system leveraging machine learning.
 
